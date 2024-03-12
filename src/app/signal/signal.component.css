@@ -1,0 +1,30 @@
+:host {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+.container {
+    margin-right: 1rem;
+}
+
+.title {
+    border: 1px solid grey;
+    box-shadow: 1px 1px grey;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 10px;
+}
+
+.post {
+    margin-left: 1rem;
+    color: gray;
+}
+
+h2,
+h3 {
+    color: gray
+}
